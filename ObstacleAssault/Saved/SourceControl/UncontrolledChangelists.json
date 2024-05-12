@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5 Projects/ObstacleAssault/Content/Main.umap",
+				"D:/UE5 Projects/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
+				"D:/UE5 Projects/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"D:/UE5 Projects/ObstacleAssault/Content/BP_MovingPlatform.uasset",
+				"D:/UE5 Projects/ObstacleAssault/Content/BP_PushingCube.uasset",
+				"D:/UE5 Projects/ObstacleAssault/Content/BP_ObstacleAssaultGameMode.uasset",
+				"D:/UE5 Projects/ObstacleAssault/Content/BP_RotatingPlatform.uasset",
+				"D:/UE5 Projects/ObstacleAssault/Content/BP_Sweeper.uasset"
+			]
+		}
+	]
+}
